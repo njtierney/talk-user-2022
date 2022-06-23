@@ -2,7 +2,7 @@
 title: .large[Reflections one year into working as a research software engineer]
 author: .large[Nicholas Tierney, Telethon Kids Institute]
 date: "UseR! 2022"
-subtitle: "**njt-user2022.netlify.app**, **nj_tierney**"
+subtitle: "**njt-user-2022.netlify.app**, **nj_tierney**"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -114,7 +114,7 @@ nipa <- list(red = "#c03018",
 ---
 
 layout: true
-<div class="my-footer"><span>bit.ly/njt-qut-ec • @nj_tierney</span></div> 
+<div class="my-footer"><span>njt-user-2022.netlify.app • @nj_tierney</span></div> 
 
 
 ---

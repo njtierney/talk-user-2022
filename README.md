@@ -1,13 +1,11 @@
 # Reflections one year into working as a research software engineer
-<!-- NETLIFY BADGE SHOULD GO HERE-->
-
-This is a slide template I have put on github so that I can get started with talks easier.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bccf9bd5-c6ae-43a7-be14-f89cb8dc544a/deploy-status)](https://app.netlify.com/sites/njt-user-2022/deploys)
 
 # Abstract
 
 Despite the obvious impact of software in research, we are still working out how to adequately acknowledge research software in academia. How do we provide rewarding career paths for those who want to write research software as academic output? The relatively new field of research software engineering can help address this. A research software engineer combines professional software expertise with an understanding of research. I have been working as a research software engineer in academia for the past year. In this talk, I will explain how this role fits into academia, what I do as a research software engineer, and summarise what I’ve learnt, and how I see, and hope, a career in research software engineering develops over time.
 
-# Slide available [here](https://bit.ly/FILL-ME-IN)
+# Slide available [here](https://njt-user-2022.netlify.app/)
 
 # Take home messages 
 
