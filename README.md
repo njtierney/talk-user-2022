@@ -7,16 +7,19 @@ Despite the obvious impact of software in research, we are still working out how
 
 # Slide available [here](https://njt-user-2022.netlify.app/)
 
-# Take home messages 
-
-1. Point one
-1. Point two
-1. Point three
-
-# Thanks
 
 # Resources
 
+.large[
+
+- [greta](https://greta-stats.org/)
+- [usethis](https://usethis.r-lib.org/)
+- [Nature article: Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
+- [glue](https://glue.tidyverse.org/)
+- [snapshot testing](https://testthat.r-lib.org/articles/snapshotting.html)
+- [cli](https://cli.r-lib.org/)
+
+]
 # Colophon
 
   - Slides made using [xaringan](https://github.com/yihui/xaringan)
