@@ -239,6 +239,11 @@ draws <- mcmc(m)
 ]
 
 ---
+class: inverse, center, middle
+
+# .large[**Designing** new interfaces]
+
+---
 
 # Malaria modelling
 
@@ -298,7 +303,7 @@ m <- fit_hts(
 ---
 class: inverse
 .vhuge.center.middle[
-**Reflections + advice**
+**Reflections; Advice**
 ]
 
 ---
@@ -582,7 +587,7 @@ These are amazing functions that help save me a bit of time every day
 ---
 # Continuous integration: it will save you time...eventually
 
-```{r show-ghactions, out.width = "100%"}
+```{r show-ghactions, out.width = "90%"}
 knitr::include_graphics("imgs/gh-actions-wait.png")
 ```
 
@@ -732,8 +737,8 @@ print_file_msg_cli(3)
 See [Miles McBain's](https://twitter.com/MilesMcBain) blog post ["Project as an R package: An okay idea"](https://www.milesmcbain.com/posts/an-okay-idea/) on this.
 
 ---
-class: inverse
-# The Future
+class: inverse, middle, center
+# .vhuge[The **Future**]
 
 ---
 
