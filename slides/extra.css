@@ -2,6 +2,9 @@
 .red {
   color: red;
 }
+.vsmall {
+  font-size: 60%;
+}
 .small {
   font-size: 80%;
 }
