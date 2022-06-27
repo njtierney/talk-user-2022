@@ -751,7 +751,7 @@ In the past 12 months:
 - Monash University Business School now recognises software as first class academic output
 - Statistical Society of Australia (SSA) hosted a panel session on RSEs
 - ACEMs podcast: acknowledging research software
-- I delievered seminar: ["Acknowledging research software in academia"]() at UNSW
+- I delivered seminar: ["Acknowledging research software in academia"]() at UNSW
 - SSA has developed two awards for statistical software:
   - Di Cook Award ($1000): Student prize for Victoria and Tasmania
   - Venables Award ($5000): National statistical software prize
